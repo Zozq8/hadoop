@@ -3,9 +3,9 @@ Copyright 2006 and onwards The Apache Software Foundation.
 
 The product includes software developed at
 The Apache Software Foundation (http://www.apache.org/).
-and I like it.
 
-Export Control Notice
+
+Export Control Notice:-
 ---------------------
 
 This distribution includes cryptographic software.  The country in
